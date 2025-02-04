@@ -54,7 +54,7 @@ Run the application:
 
 flask run
 
-The application will be available at http://127.0.0.1:5000/
+The application will be available at (soon)
 
 📂 Project Structure
 
